@@ -11,3 +11,12 @@ Skilled in evaluating environmental impacts and supporting data-driven solutions
 ![Solar PVsyst](https://img.shields.io/badge/Solar_PVsyst-FF8C00?style=for-the-badge)
 ![Electrolyzer](https://img.shields.io/badge/Electrolyzer-4682B4?style=for-the-badge)
 ![Decarbonization](https://img.shields.io/badge/Decarbonization-228B22?style=for-the-badge)
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/chiragrathore-iitg
+- Email: chiragrathore.iitguwahati@gmail.com
