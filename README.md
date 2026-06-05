@@ -14,16 +14,16 @@ Hi, I'm Chirag 👋
 
 ## 🛠️ Skills
 
-# 🟢 Sustainability & Energy Modelling
+#### 🟢 Sustainability & Energy Modelling
 SimaPro • openLCA • PVsyst
 
-# 🔵 Programming & Computational Tools
+#### 🔵 Programming & Computational Tools
 Python • MATLAB • Jupyter Notebook
 
-# 🟣 Frameworks & Libraries
+#### 🟣 Frameworks & Libraries
 Pandas • NumPy • Matplotlib • Seaborn
 
-# 🟠 Machine Learning
+#### 🟠 Machine Learning
 Scikit-learn
 
 ## 📫 Connect With Me
