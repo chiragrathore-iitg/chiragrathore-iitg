@@ -1,7 +1,8 @@
 Hi, I'm Chirag 👋
+Sustainability Researcher | Green Hydrogen Systems | Life Cycle Assessment (LCA) | Solar PV
 
 🎓 MS (Research) student in Energy Science & Engineering at IIT Guwahati.  
-🌱 Focused on sustainability, Life Cycle Assessment (LCA), and green hydrogen systems.  
+🌱 Focused on sustainability, green hydrogen systems, and Life Cycle Assessment (LCA).  
 ♻️ Skilled in evaluating environmental impacts and supporting data-driven solutions for clean energy and decarbonization initiatives.
 
 ## 🔬 Research Focus
@@ -18,7 +19,7 @@ Hi, I'm Chirag 👋
 |----------|---------|
 | Sustainability & Energy Modelling | ![SimaPro](https://img.shields.io/badge/SimaPro-blue) ![openLCA](https://img.shields.io/badge/openLCA-green) ![PVsyst](https://img.shields.io/badge/PVsyst-orange) |
 | Programming | ![Python](https://img.shields.io/badge/Python-yellow) ![MATLAB](https://img.shields.io/badge/MATLAB-red) |
-| Frameworks | ![Pandas](https://img.shields.io/badge/Pandas-purple) ![NumPy](https://img.shields.io/badge/NumPy-blue) |
+| Libraries & Visualization | ![Pandas](https://img.shields.io/badge/Pandas-purple) ![NumPy](https://img.shields.io/badge/NumPy-blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-green) |
 | Machine Learning | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange) |
 
 ## 📫 Connect With Me
