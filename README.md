@@ -6,12 +6,12 @@ Skilled in evaluating environmental impacts and supporting data-driven solutions
 
 ## 🔬 Research Focus
 
-![Green Hydrogen](https://img.shields.io/badge/Green_Hydrogen-2E8B57?style=for-the-badge) 
+![Green Hydrogen](https://img.shields.io/badge/Green_Hydrogen-228B22?style=for-the-badge) 
 ![Life Cycle Assessment](https://img.shields.io/badge/Life_Cycle_Assessment-87CEFA?style=for-the-badge) 
 ![Solar PVsyst](https://img.shields.io/badge/Solar_PVsyst-FF8C00?style=for-the-badge)
 ![Electrolyzer](https://img.shields.io/badge/Electrolyzer-4682B4?style=for-the-badge)
-![Decarbonization](https://img.shields.io/badge/Decarbonization-228B22?style=for-the-badge)
-
+![Decarbonization](https://img.shields.io/badge/Decarbonization-2E8B57?style=for-the-badge)
+2E8B57
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
