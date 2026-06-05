@@ -7,7 +7,7 @@ Hi, I'm Chirag 👋
 ## 🔬 Research Focus
 
 ![Green Hydrogen](https://img.shields.io/badge/Green_Hydrogen-228B22?style=for-the-badge) 
-![Life Cycle Assessment](https://img.shields.io/badge/Life_Cycle_Assessment-87CBFA?style=for-the-badge) 
+![Life Cycle Assessment](https://img.shields.io/badge/Life_Cycle_Assessment-blue?style=for-the-badge) 
 ![Solar PVsyst](https://img.shields.io/badge/Solar_PVsyst-FF8C00?style=for-the-badge)
 ![Electrolyzer](https://img.shields.io/badge/Electrolyzer-4682B4?style=for-the-badge)
 ![Decarbonization](https://img.shields.io/badge/Decarbonization-2E8B57?style=for-the-badge)
