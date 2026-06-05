@@ -18,5 +18,5 @@ Skilled in evaluating environmental impacts and supporting data-driven solutions
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/chiragrathore-iitg
+- LinkedIn: [linkedin.com/in/chiragrathore-iitg](https://www.linkedin.com/in/chiragrathore-iitg/)
 - Email: chiragrathore.iitguwahati@gmail.com
