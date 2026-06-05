@@ -14,12 +14,17 @@ Hi, I'm Chirag 👋
 
 ## 🛠️ Skills
 
-| Category | Skills |
-|-----------|---------|
-| **Sustainability & Energy Modelling Tools** | SimaPro, openLCA, PVsyst |
-| **Programming & Computational Tools** | Python, MATLAB, Jupyter Notebook |
-| **Frameworks & Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn |
+## 🟢 Sustainability & Energy Modelling
+SimaPro • openLCA • PVsyst
+
+## 🔵 Programming & Computational Tools
+Python • MATLAB • Jupyter Notebook
+
+## 🟣 Frameworks & Libraries
+Pandas • NumPy • Matplotlib • Seaborn
+
+## 🟠 Machine Learning
+Scikit-learn
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/chiragrathore-iitg](https://www.linkedin.com/in/chiragrathore-iitg/)
