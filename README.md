@@ -13,9 +13,13 @@ Hi, I'm Chirag 👋
 ![Decarbonization](https://img.shields.io/badge/Decarbonization-2E8B57?style=for-the-badge)
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+| Category | Skills |
+|-----------|---------|
+| **Sustainability & Energy Modelling Tools** | SimaPro, openLCA, PVsyst |
+| **Programming & Computational Tools** | Python, MATLAB, Jupyter Notebook |
+| **Frameworks & Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-learn |
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/chiragrathore-iitg](https://www.linkedin.com/in/chiragrathore-iitg/)
