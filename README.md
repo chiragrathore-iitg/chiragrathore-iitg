@@ -1,4 +1,4 @@
-## Hi, I'm Chirag 👋  
+## Hi, I'm Chirag👋  
 Sustainability Researcher | Green Hydrogen Systems | Life Cycle Assessment (LCA) | Solar PV
 
 🎓 MS (Research) student in Energy Science & Engineering at IIT Guwahati.  
