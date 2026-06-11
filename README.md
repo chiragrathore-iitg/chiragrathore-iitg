@@ -1,6 +1,5 @@
 ## Hi, I'm Chirag👋  
-Sustainability Researcher | Green Hydrogen Systems | Life Cycle Assessment (LCA) | Solar PV
-
+Sustainability Researcher | Solar PV | Green Hydrogen Systems | Life Cycle Assessment (LCA) 
 🎓 MS (Research) student in Energy Science & Engineering at IIT Guwahati.  
 🌱 Focused on sustainability, green hydrogen systems, and Life Cycle Assessment (LCA).  
 ♻️ Skilled in evaluating environmental impacts and supporting data-driven solutions for clean energy and decarbonization initiatives.
