@@ -4,7 +4,7 @@ Sustainability Researcher | Solar PV | Green Hydrogen Systems | Life Cycle Asses
 🌱 Focused on sustainability, green hydrogen systems, and Life Cycle Assessment (LCA).  
 ♻️ Skilled in evaluating environmental impacts and supporting data-driven solutions for clean energy and decarbonization initiatives.
 
-## 🔬 Research Focus
+## 🔬 Research Interests
 
 ![Solar PVsyst](https://img.shields.io/badge/Solar_PVsyst-FF8C00?style=for-the-badge)
 ![Life Cycle Assessment](https://img.shields.io/badge/Life_Cycle_Assessment-purple?style=for-the-badge) 
