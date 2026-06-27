@@ -6,7 +6,7 @@ Sustainability Researcher | Solar PV | Green Hydrogen Systems | Life Cycle Asses
 
 ## 🔬 Research Interests
 
-![Solar PVsyst](https://img.shields.io/badge/Solar_PVsyst-FF8C00?style=for-the-badge)
+![Solar PV](https://img.shields.io/badge/Solar_PVsyst-FF8C00?style=for-the-badge)
 ![Life Cycle Assessment](https://img.shields.io/badge/Life_Cycle_Assessment-purple?style=for-the-badge) 
 ![Green Hydrogen](https://img.shields.io/badge/Green_Hydrogen-228B22?style=for-the-badge) 
 ![Electrolyzer](https://img.shields.io/badge/Electrolyzer-blue?style=for-the-badge)
